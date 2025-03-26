@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yusuf Mert Özkul</h1>
 <h3 align="center">A passionate Data Scientist candidate from Istanbul, Türkiye</h3>
+<h4 align="center">I am a Computer Engineering student at Bursa Technical University. I have a special interest in machine learning 
+and data analysis, and I am focused on improving myself in these fields. I actively work on projects to put my 
+theoretical knowledge into practice and continuously strive for self-improvement. Through various projects, I have 
+developed problem-solving and team management skills. My goal is to keep learning and advancing in the fields 
+of technology and software. </h4>
 
 - 🔭 Some of my Project [Michelin 2023-2024 Tire Price Analysis](https://github.com/YusufMerrt/Michelin-2023-2024-lastik-fiyat-analizi)
 
